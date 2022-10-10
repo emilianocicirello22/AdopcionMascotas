@@ -1,0 +1,70 @@
+header{
+    background: url("/img/grupo-perros-mascotas-apoyado-tablero-vacio-blanco_191971-22595.jpg");
+    background-position: 100%;
+    background-repeat: none;
+    background-size: cover;
+    height: 60vh;
+    opacity: .8;
+
+}
+.content {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+.contenedor {
+    height: 100%;
+    margin: auto;
+    width: 90%;
+}
+
+h1{
+    font-size: 100px;
+    color: red;
+    font-family:cursive;
+}
+
+img{
+
+    border: 2px;
+    border-style: solid;
+    border-color: black;  
+    width: 400px;
+    height: 400px;
+    
+}
+
+
+.contenedor-foto{
+
+    border: 2px;
+    border-style: solid;
+    border-color: black;    
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 440px;
+    padding-bottom: 80px;
+}
+
+.nombre-card{
+    color: red;
+    font-family:cursive;
+}
+
+.texto-card{
+    font-size: 100%;
+    color: red;
+    font-family:cursive;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: black;
+    
+}
+
+    
